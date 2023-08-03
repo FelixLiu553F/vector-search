@@ -1,0 +1,8 @@
+# This is comment in Python
+msg_from_computer = "Hello" # String
+another_msg ='Hello in single quote' # This is also a String.
+
+print(msg_from_computer + " World..!")
+
+# Type will return the data type.
+print(type(msg_from_computer)) # <type 'str'>. We will see the explanation of this later.

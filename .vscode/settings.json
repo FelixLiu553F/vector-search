@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "blpop",
+    "dotenv",
+    "imean",
+    "lpush",
+    "openai",
+    "pretrained",
+    "Qdrant",
+    "rpush",
+    "sanic"
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none"
+}
