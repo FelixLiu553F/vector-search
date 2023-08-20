@@ -8,7 +8,8 @@
     "pretrained",
     "Qdrant",
     "rpush",
-    "sanic"
+    "sanic",
+    "Upserting"
   ],
   "[python]": {
     "editor.defaultFormatter": "ms-python.black-formatter"
